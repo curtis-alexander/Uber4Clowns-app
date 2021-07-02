@@ -1,0 +1,2 @@
+class ClownUsersController < ApplicationController
+end
